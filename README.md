@@ -1,16 +1,14 @@
-# dark_mode_app
+# Dark Mode App
 
-A new Flutter project.
+This is a flutter project demonstrating how to use dynamic dark theming over the app.
 
-## Getting Started
+## What was used?
 
-This project is a starting point for a Flutter application.
+I've used SharedPreference for data persistence. Also, the Provider package was used for state management. 
 
-A few resources to get you started if this is your first Flutter project:
+![Preview](https://github.com/utpal-barman/flutter-dark-mode/blob/master/git%20media/dark-mode-app-video.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Packages Used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- SharedPreferences ^0.5.6+3 [link](https://pub.dev/packages/shared_preferences)
+- Provider ^4.0.5 [link](https://pub.dev/packages/provider)
