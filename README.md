@@ -1,6 +1,6 @@
 # Dark Mode App
 
-This is a flutter project demonstrating how to use dynamic dark theming over the app.
+This is a flutter project demonstrating how to use dynamic dark theming over the app. It works both in Android and IOS platform.
 
 ## What was used?
 
