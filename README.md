@@ -25,3 +25,7 @@ I've used SharedPreference for data persistence. Also, the Provider package was 
 
 - SharedPreferences ^0.5.10 [link](https://pub.dev/packages/shared_preferences)
 - Provider ^4.0.5 [link](https://pub.dev/packages/provider)
+
+## Version
+
+To use any of the versions just change the branch
